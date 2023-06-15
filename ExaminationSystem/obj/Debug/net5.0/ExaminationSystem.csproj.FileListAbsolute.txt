@@ -1,0 +1,16 @@
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.exe
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.deps.json
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.runtimeconfig.json
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.runtimeconfig.dev.json
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.dll
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.pdb
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.csproj.AssemblyReference.cache
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.AssemblyInfoInputs.cache
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.AssemblyInfo.cs
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.dll
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\refint\ExaminationSystem.dll
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.pdb
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.genruntimeconfig.cache
+D:\C# Tasks\Exam\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ref\ExaminationSystem.dll
